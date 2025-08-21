@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pocketbase": "^0.25.2",
+    "svelte-markdown": "^0.4.1"
+  }
+}
