@@ -67,10 +67,3 @@ Envoi d'un message et récupération de la réponse (`POST https://api.mistral.a
 ## Livrables
 
 Code source du projet
-
-## Etapes
-
-1. J1 - Mise en place du projet Svelte et intégration HTML/CSS
-2. J2 - Implémentation de l'échange de messages avec Mistral
-3. J3 - Persistance des données à l'aide de Pocketbase pour conserver l'historique de messages
-4. J4 - Implémentation d'un système de conversations
